@@ -1,0 +1,4 @@
+bind "backspace" "say !start";
+bind "shift" "say !sm_cp";
+bind "mouse4" "say !sm_tele";
+bind "mouse5" "say !s";
