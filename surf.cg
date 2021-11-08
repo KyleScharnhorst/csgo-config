@@ -1,4 +1,9 @@
 bind "backspace" "say !start";
 bind "shift" "say !sm_cp";
-bind "mouse4" "say !sm_tele";
-bind "mouse5" "say !s";
+bind "alt" "say !sm_tele";
+bind "mouse3" "say !s";
+bind "mouse4" "+left";
+bind "mouse5" "+right";
+bind "space" "+jump"
+bind "capslock" "+duck"
+bind "f" "+lookatweapon"
