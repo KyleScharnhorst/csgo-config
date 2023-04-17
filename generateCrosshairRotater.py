@@ -1,5 +1,4 @@
 crosshair_dict = {
-    "tabsen big green": "CSGO-aQxtX-NfpQc-2WzBG-WOako-CJKeB",
     "faven big yellow": "CSGO-sdonn-s95jD-4YXc4-2mxst-A7JzN",
     "dycha": "CSGO-empbi-Y4jLL-Rz6Ce-v4mWS-CCmsF",
     "konfig skinny big green": "CSGO-Oa34q-kPJJR-CT8Uc-tssQ8-f8GSQ",
@@ -18,6 +17,7 @@ crosshair_dict = {
 # "jame": "CSGO-kQLy3-knZHs-y5tkt-wF7Ca-c8ksF",
 # "el1an": "CSGO-ywVp4-hr45N-EYesN-7hrQe-VqnkP",
 # "red zywoo": "CSGO-VDHdU-kpe6u-ZXLCz-bTjff-OnMHA",
+# "tabsen big green": "CSGO-aQxtX-NfpQc-2WzBG-WOako-CJKeB",
 
 base_crosshair_id = 'crosshair'
 alias = 'alias'
