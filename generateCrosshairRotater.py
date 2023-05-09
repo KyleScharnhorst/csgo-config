@@ -1,11 +1,21 @@
 crosshair_dict = {
-    "faven big yellow": "CSGO-sdonn-s95jD-4YXc4-2mxst-A7JzN",
-    "dycha": "CSGO-empbi-Y4jLL-Rz6Ce-v4mWS-CCmsF",
-    "konfig skinny big green": "CSGO-Oa34q-kPJJR-CT8Uc-tssQ8-f8GSQ",
+
     "NickleBack skinny big turqoise": "CSGO-VLvKm-6M957-yUmbn-F7c4O-XdTOG",
-    "apex big turqoise": "CSGO-idk3k-MD5qw-6b9rH-tr7u7-KPh8E",
-    "hampus medium red skinny": "CSGO-ZLbpO-pnqGC-teHAB-VtNeb-6shrM"
+    "NickleBack skinny big red": "CSGO-kEdAk-UdZ3a-U9Kfb-SrDqJ-TpNkO",
+    "NickleBack skinny big green": "CSGO-EiWJM-ORxJy-eP8to-TaVaG-TpNkO",
+    "NickleBack skinny big blue": "CSGO-HEMNk-FeEB2-aF7Gj-hA2ZG-TpNkO",
+    "NickleBack skinny big pink": "CSGO-Abryz-TKDch-RzdXy-Pj9Hh-EGnfO",
+    "NickleBack skinny big yellow": "CSGO-763ua-b6vke-VAfB5-BBdJh-EGnfO",
+    "NickleBack skinny big white": "CSGO-VTGkr-akYMm-S2z3Q-93Yk6-yfCcO",
+
 }
+
+# "faven big yellow": "CSGO-sdonn-s95jD-4YXc4-2mxst-A7JzN",
+# "dycha": "CSGO-empbi-Y4jLL-Rz6Ce-v4mWS-CCmsF",
+# "konfig skinny big green": "CSGO-Oa34q-kPJJR-CT8Uc-tssQ8-f8GSQ",
+# "NickleBack skinny big turqoise": "CSGO-VLvKm-6M957-yUmbn-F7c4O-XdTOG",
+# "apex big turqoise": "CSGO-idk3k-MD5qw-6b9rH-tr7u7-KPh8E",
+# "hampus medium red skinny": "CSGO-ZLbpO-pnqGC-teHAB-VtNeb-6shrM"
 
 # "beast med red": "CSGO-MjOay-7ikY8-2T6fL-uJGVG-icywQ",
 # "hunter": "CSGO-Jp4hk-AfzML-FcpUT-2pfxZ-kSLoD",
