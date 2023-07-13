@@ -1,13 +1,13 @@
 crosshair_dict = {
-
+    "elian green": "CSGO-NVp8E-aFaup-H7toU-dD3Rd-OnMHA",
+    "elian turqoise": "CSGO-cnBwb-9MhKO-8sRtq-rb3b2-msLDR",
     "NickleBack skinny big turqoise": "CSGO-VLvKm-6M957-yUmbn-F7c4O-XdTOG",
-    "NickleBack skinny big red": "CSGO-kEdAk-UdZ3a-U9Kfb-SrDqJ-TpNkO",
+    # "NickleBack skinny big red": "CSGO-kEdAk-UdZ3a-U9Kfb-SrDqJ-TpNkO",
     "NickleBack skinny big green": "CSGO-EiWJM-ORxJy-eP8to-TaVaG-TpNkO",
-    "NickleBack skinny big blue": "CSGO-HEMNk-FeEB2-aF7Gj-hA2ZG-TpNkO",
-    "NickleBack skinny big pink": "CSGO-Abryz-TKDch-RzdXy-Pj9Hh-EGnfO",
-    "NickleBack skinny big yellow": "CSGO-763ua-b6vke-VAfB5-BBdJh-EGnfO",
-    "NickleBack skinny big white": "CSGO-VTGkr-akYMm-S2z3Q-93Yk6-yfCcO",
-
+    # "NickleBack skinny big blue": "CSGO-HEMNk-FeEB2-aF7Gj-hA2ZG-TpNkO",
+    # "NickleBack skinny big pink": "CSGO-Abryz-TKDch-RzdXy-Pj9Hh-EGnfO",
+    # "NickleBack skinny big yellow": "CSGO-763ua-b6vke-VAfB5-BBdJh-EGnfO",
+    # "NickleBack skinny big white": "CSGO-VTGkr-akYMm-S2z3Q-93Yk6-yfCcO",
 }
 
 # "faven big yellow": "CSGO-sdonn-s95jD-4YXc4-2mxst-A7JzN",
